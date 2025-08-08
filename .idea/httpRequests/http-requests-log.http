@@ -1,0 +1,590 @@
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T210122.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T205613.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T205348.200.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T205345.200.txt
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T205345-1.200.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T205307.200.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T204615.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T191327.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T191318.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T191008.201.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190913-2.200.txt
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190913-1.200.txt
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190913.200.txt
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190912.200.txt
+
+###
+
+DELETE http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190834-2.200.txt
+
+###
+
+PATCH http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190834-1.200.txt
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190834.200.txt
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T190833.200.txt
+
+###
+
+POST http://localhost:1234/users
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T185706.200.txt
+
+###
+
+PUT http://localhost:1234/users/1
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/GoLand 2024.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{}
+
+<> 2025-08-08T185704.200.txt
+
+###
+
